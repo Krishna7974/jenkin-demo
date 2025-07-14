@@ -6,8 +6,7 @@ public class Main{
 
         Student student=new Student();
         student.method();
-
-        System.out.println("why it required");
+        
         
     }
 }
